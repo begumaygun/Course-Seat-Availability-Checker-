@@ -60,8 +60,6 @@ If you have any ideas for improvements, feel free to contribute! 🚀
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 The project also uses [Selenium](https://www.selenium.dev/documentation/en/) which is licensed under the Apache 2.0 License.
 
 
